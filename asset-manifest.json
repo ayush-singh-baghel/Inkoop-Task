@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Inkoop-Task/static/css/main.994546a0.css",
+    "main.js": "/Inkoop-Task/static/js/main.558d18c0.js",
+    "static/js/488.4f7165dd.chunk.js": "/Inkoop-Task/static/js/488.4f7165dd.chunk.js",
+    "index.html": "/Inkoop-Task/index.html",
+    "main.994546a0.css.map": "/Inkoop-Task/static/css/main.994546a0.css.map",
+    "main.558d18c0.js.map": "/Inkoop-Task/static/js/main.558d18c0.js.map",
+    "488.4f7165dd.chunk.js.map": "/Inkoop-Task/static/js/488.4f7165dd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.994546a0.css",
+    "static/js/main.558d18c0.js"
+  ]
+}
